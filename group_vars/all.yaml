@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.arrud.online
+REDIS_HOST: redis.arrud.online
+MYSQL_HOST: mysql.arrud.online
+RABBITMQ_HOST: rabbitmq.arrud.online
+CATALOGUE_HOST: catalogue.arrud.online
+USER_HOST: user.arrud.online
+CART_HOST: cart.arrud.online
+SHIPPING_HOST: shipping.arrud.online
+PAYMENT_HOST: payment.arrud.online
