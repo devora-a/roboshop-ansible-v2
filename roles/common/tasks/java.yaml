@@ -12,3 +12,6 @@
   command: mv target/shipping-1.0.jar shipping.jar 
   args:
     chdir: /app
+
+
+    
