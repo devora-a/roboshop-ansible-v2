@@ -3,7 +3,7 @@
     name: common
     tasks_from: app-setup
 
-- name: noedjs setup
+- name: nodejs setup
   import_role:
     name: common
     tasks_from: nodejs
